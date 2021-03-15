@@ -1,0 +1,7 @@
+C:\Users\fuzzf\source\repos\PropertyApp\PropertyApp\bin\Debug\PropertyApp.exe.config
+C:\Users\fuzzf\source\repos\PropertyApp\PropertyApp\bin\Debug\PropertyApp.exe
+C:\Users\fuzzf\source\repos\PropertyApp\PropertyApp\bin\Debug\PropertyApp.pdb
+C:\Users\fuzzf\source\repos\PropertyApp\PropertyApp\obj\Debug\PropertyApp.csprojAssemblyReference.cache
+C:\Users\fuzzf\source\repos\PropertyApp\PropertyApp\obj\Debug\PropertyApp.csproj.CoreCompileInputs.cache
+C:\Users\fuzzf\source\repos\PropertyApp\PropertyApp\obj\Debug\PropertyApp.exe
+C:\Users\fuzzf\source\repos\PropertyApp\PropertyApp\obj\Debug\PropertyApp.pdb

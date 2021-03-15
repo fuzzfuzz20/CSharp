@@ -1,0 +1,7 @@
+C:\Users\fuzzf\source\repos\ISAS\ISAS\bin\Debug\ISAS.exe.config
+C:\Users\fuzzf\source\repos\ISAS\ISAS\bin\Debug\ISAS.exe
+C:\Users\fuzzf\source\repos\ISAS\ISAS\bin\Debug\ISAS.pdb
+C:\Users\fuzzf\source\repos\ISAS\ISAS\obj\Debug\ISAS.csprojAssemblyReference.cache
+C:\Users\fuzzf\source\repos\ISAS\ISAS\obj\Debug\ISAS.csproj.CoreCompileInputs.cache
+C:\Users\fuzzf\source\repos\ISAS\ISAS\obj\Debug\ISAS.exe
+C:\Users\fuzzf\source\repos\ISAS\ISAS\obj\Debug\ISAS.pdb
